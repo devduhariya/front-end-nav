@@ -1,0 +1,31 @@
+.heading{
+  color: royalblue;
+}
+img{
+  display: block;
+  width: 100%;
+}
+section{
+  padding: 90px 0;
+}
+section:nth-child(even){
+  background-color: whitesmoke;
+}
+.our-clients{
+  list-style-type: none;
+}
+.our-clients li{
+  display: inline-block;
+  width: 90px;
+  padding: 4px;
+}
+footer{
+  background-color: #007bff;
+  color: #fff;
+}
+.nav-item{
+  min-width: 160px;
+}
+.navbar{
+  box-shadow: 2px 2px lightgray;
+}
